@@ -69,5 +69,5 @@ cloud-deploy:
        password: $PASSWORD
        org: $ORG
        space: $SPACE
-       appname: backing-catalog
+       appname: backing-fulfillment
        docker_image: cloudnativego/backing-fulfillment
