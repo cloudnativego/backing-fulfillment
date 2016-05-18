@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/bd3db7ca7efa8babc97cb84a73622bc6/m "wercker status")](https://app.wercker.com/project/bykey/bd3db7ca7efa8babc97cb84a73622bc6)
+
 # Fulfillment Service
 This is the fulfillment service that is used as part of the backing services chapter.
 
